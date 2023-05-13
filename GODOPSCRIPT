@@ -687,7 +687,7 @@ Text = "Successfully Executed"
 })
 end)
 Section:NewButton("Fly 【Mobile】", "IDK", function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/ySypYydL"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/TEACOLE/flygui/main/opfly?token=GHSAT0AAAAAACCQRMA5ZUYA3ZZNLIV2DWVAZC7BVPQ"))()
 starterGui:SetCore("SendNotification",{
 Title = "Message",
 Text = "Successfully Executed"
